@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, cooking (especially indian!) and sport
 - 🌱 I’m currently learning Computer Science
 - 📫 How to reach me:
-* My Linkedin profile url - https://www.linkedin.com/in/mor-zemach-14064a67/
+* My Linkedin profile url - https://www.linkedin.com/in/mor-zemach
 or just Mor Zemach :)
 
 <!---
